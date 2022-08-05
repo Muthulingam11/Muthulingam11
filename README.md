@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muthulingam11&show_icons=true&locale=en&layout=compact" alt="Muthulingam11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muthulingam11&show_icons=true&locale=en" alt="Muthulingam11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muthulingam11&show_icons=true&theme=tokyonight&locale=en" alt="Muthulingam11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muthulingam11&" alt="Muthulingam11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Muthulingam11&theme=tokyonight_duo" alt="Muthulingam11" /></p>
